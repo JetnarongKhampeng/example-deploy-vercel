@@ -5,6 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+npm install 
+# or
+yarn add
+
 npm run dev
 # or
 yarn dev
@@ -14,7 +18,6 @@ yarn dev
 pnpm dev
 # or
 bun dev
->>>>>>> b46f625 (Initial commit from Create Next App)
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
